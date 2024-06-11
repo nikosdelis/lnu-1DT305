@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "lnu_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7144",
+      "launchBrowser": false
+    }
+  }
+}
